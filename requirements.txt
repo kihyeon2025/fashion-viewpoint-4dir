@@ -1,0 +1,9 @@
+# PyTorch / torchvision은 https://pytorch.org 에서 CUDA 버전에 맞게 먼저 설치하세요.
+# 논문 실험 환경: torch 2.14.0, torchvision 0.29.0 (CUDA 12.6), Python 3.11
+torch
+torchvision
+numpy
+Pillow
+scikit-learn
+# figures/ 그림 스크립트용 (선택)
+matplotlib

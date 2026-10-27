@@ -1,0 +1,25 @@
+# 데이터 (라이선스·저작권상 재배포 불가)
+vp4_dataset/
+shop_test/
+shop*/
+df2_*/
+*.jpg
+*.jpeg
+*.png
+*.webp
+!figures/*.png
+
+# 학습 결과·가중치 (용량)
+runs_vp/
+runs*/
+kp_baseline/
+sample_fig/
+*.pt
+*.pth
+*.log
+
+# 기타
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
